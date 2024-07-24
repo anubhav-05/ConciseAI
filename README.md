@@ -65,7 +65,7 @@ source textSum/bin/activate (Linux/Mac)
 textSum\Scripts\activate (Windows)
 
 
-#### Download the `model_state_dict.pth` and `pegasus-samsum` directory:
+#### Run text_summarization.py to save the model_state_dict.pth and pegasus-samsum directory (I used google colab):
 
 Ensure these files and directories are in the root of the project directory.
 
