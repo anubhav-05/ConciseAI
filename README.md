@@ -54,6 +54,7 @@ ConciseAI/
 
 #### Clone the repository:
 
+```bash
 git clone https://github.com/anubhav-05/ConciseAI.git
 cd ConciseAI
 
